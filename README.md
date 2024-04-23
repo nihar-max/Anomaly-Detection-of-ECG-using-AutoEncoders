@@ -26,10 +26,11 @@ Diffrence between Input and Output is Reconstruction Error
 
 Note: Reconstruction Error for Anomaly data will be very high, and that will help us to determine wheater the output is Anomaly or Normal
 
-<img src="Normal_data.png" width="300"/>
 Normal data
-<img src="Abnormaldata.png" width="300"/>
+<img src="Normal_data.png" width="300"/>
 Abnormal data
+<img src="Abnormaldata.png" width="300"/>
+
 
 ### 4.2 Comparison of Normal & Anomaly ECG using Threshold
 <img src="Comparison_data.png" width="400"/>

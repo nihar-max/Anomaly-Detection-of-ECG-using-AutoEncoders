@@ -24,6 +24,7 @@ Observation: In Abnormal it is normal at beginning but as it go forwards there i
 
 Diffrence between Input and Output is Reconstruction Error
 Note: Reconstruction Error for Anomaly data will be very high, and that will help us to determine wheater the output is Anomaly or Normal
+
 <img src="Normal_data.png" width="300"/>
 Normal data
 <img src="Abnormaldata.png" width="300"/>

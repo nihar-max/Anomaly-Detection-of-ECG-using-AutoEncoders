@@ -14,6 +14,6 @@ As a binary data Category 1 means Normal activity, 0 means abnormal activity.
 ### 3.1 Normal ECG
 <img src="Normal ecg.png" width="350"/>
 
-### 3.2  Abnormal ECG
+### 3.2  Abnormal ECG 
 <img src="Abnormal ecg.png" width="350"/>
 

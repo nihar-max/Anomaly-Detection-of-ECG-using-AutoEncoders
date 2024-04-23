@@ -21,6 +21,7 @@ Observation: In Abnormal it is normal at beginning but as it go forwards there i
 
 ### 4.1 Using Auto-Encoder
 <img src="Auto-encoder.png" width="650"/>
+
 #### Diffrence between Input and Output is Reconstruction Error
 Note: Reconstruction Error for Anomaly data will be very high, and that will help us to determine wheater the output is Anomaly or Normal
 <img src="Normal_data.png" width="300"/>

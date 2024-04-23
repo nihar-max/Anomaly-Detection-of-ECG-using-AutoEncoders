@@ -9,5 +9,11 @@ As a binary data Category 1 means Normal activity, 0 means abnormal activity.
 
 ### 2. Exploratory Data Analysis 
 #### 2.1 Distribution of data points among Target Variable
-![image](https://github.com/nihar-max/Anomaly-Detection-of-ECG-using-AutoEncoders/assets/61958476/13950db3-f75a-49c2-a26e-8d873ec966fc)
+<img src="Distribution_target_var.png" width="350"/>
+
+### 3.1 Normal ECG
+<img src="Normal ecg.png" width="350"/>
+
+### 3.2  Abnormal ECG
+<img src="Abnormal ecg.png" width="350"/>
 
